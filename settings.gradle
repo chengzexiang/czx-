@@ -1,0 +1,1 @@
+include ':app', ':slidingmenulibrary', ':xlistview', ':recyclerview', ':PushSDK'
